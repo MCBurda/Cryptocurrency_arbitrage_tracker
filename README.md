@@ -8,7 +8,7 @@ We will be using the following libraries (API wrappers), which you should downlo
 
 
 
-# 1) Binance 
+# 1) Binance API
 
 
 Binance API Wrapper for Python: https://python-binance.readthedocs.io/en/latest/
@@ -22,7 +22,7 @@ Else: Download repository from Github and copy binance folder into project.
 
 
 
-# 2) Poloniex
+# 2) Poloniex API
 
 
 Poloniex API Wrapper for Python: https://github.com/s4w3d0ff/python-poloniex
