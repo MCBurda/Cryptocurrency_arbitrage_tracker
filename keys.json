@@ -1,0 +1,11 @@
+{
+   "Binance": {
+        "Public": "API PUBLIC KEY HERE",
+        "Secret": "API SECRET KEY HERE"
+    },
+
+    "Poloniex": {
+        "Public": "API PUBLIC KEY HERE",
+        "Secret": "API SECRET KEY HERE"
+    }
+}
